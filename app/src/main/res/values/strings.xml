@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">practicaSpinner</string>
+    <string name="app_titulo">.::CARRERAS TESJI::.</string>
+    <string name="app_mensaje">¿Cuál es la carrera de tu interés?</string>
+</resources>
